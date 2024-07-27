@@ -20,7 +20,7 @@ library(expm)
 library(parallel)
 library(MASS)
 library(spatialreg)
-source('R/Models/MCMC.R')
+source('MCMC.R')
 
 
 ### Prep data
